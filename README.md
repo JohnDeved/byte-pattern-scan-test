@@ -11,3 +11,4 @@ I'm also interested in researching VM DMA
   - https://news.ycombinator.com/item?id=29153564
   - https://github.com/memflow/memflow
   - https://github.com/ufrisk/pcileech
+  - https://www.unknowncheats.me/forum/anti-cheat-bypass/565881-discussing-learning-hypervisor-based-anti-cheat-bypassing.html
