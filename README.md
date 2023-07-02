@@ -6,3 +6,7 @@ create a byte pattern scan in go vs typescript to see
 3. how cool of an algorithm i can make to get fast binary scans :)
 
 <img width="572" alt="image" src="https://github.com/JohnDeved/byte-pattern-scan-test/assets/24187269/67519cb3-58fc-4b3c-ba34-fa4f1aac3f77">
+
+I'm also interested in researching DMA 
+  - https://news.ycombinator.com/item?id=29153564
+  - https://github.com/memflow/memflow
