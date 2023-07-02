@@ -7,6 +7,7 @@ create a byte pattern scan in go vs typescript to see
 
 <img width="572" alt="image" src="https://github.com/JohnDeved/byte-pattern-scan-test/assets/24187269/67519cb3-58fc-4b3c-ba34-fa4f1aac3f77">
 
-I'm also interested in researching DMA 
+I'm also interested in researching VM DMA 
   - https://news.ycombinator.com/item?id=29153564
   - https://github.com/memflow/memflow
+  - https://github.com/ufrisk/pcileech
