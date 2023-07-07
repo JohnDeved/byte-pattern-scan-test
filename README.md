@@ -47,4 +47,6 @@ https://github.com/gmh5225/awesome-game-security
 - zig win https://github.com/marlersoft/zigwin32
 - zig mem https://github.com/Sirius902/grindel
 - go win https://pkg.go.dev/golang.org/x/sys/windows
+- go mem https://pkg.go.dev/github.com/Erickson400/GoMem/windows
+- rust mem https://github.com/pseuxide/toy-arms
 
