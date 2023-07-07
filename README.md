@@ -1,6 +1,4 @@
-### R/W results 
-###### (averaged over 5 seconds)
----
+# R/W results 
 **Go (gomem):**
 ```
 writes 327171 / sec
@@ -12,6 +10,7 @@ reads 1148995 / sec
 writes 896751 / sec
 reads 1041273 / sec
 ```
+###### (averaged over 5 seconds)
 
 # byte-pattern-scan-test
 
