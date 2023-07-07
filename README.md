@@ -40,3 +40,6 @@ Kernel Driver [Leaked Cert Method](https://www.unknowncheats.me/forum/anti-cheat
 # resources
 https://github.com/gmh5225/awesome-game-security
 
+nim CreateToolhelp32Snapshot https://github.com/byt3bl33d3r/OffensiveNim/blob/master/src/taskbar_ewmi_bin.nim#L21C6-L21C22
+
+
