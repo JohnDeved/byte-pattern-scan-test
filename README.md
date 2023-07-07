@@ -1,3 +1,18 @@
+### R/W results 
+###### (averaged over 5 seconds)
+---
+**Go (gomem):**
+```
+writes 327171 / sec
+reads 1148995 / sec
+```
+
+**Typescript (Frida):**
+```
+writes 896751 / sec
+reads 1041273 / sec
+```
+
 # byte-pattern-scan-test
 
 create a byte pattern scan in go vs typescript to see
@@ -25,3 +40,4 @@ Kernel Driver [Leaked Cert Method](https://www.unknowncheats.me/forum/anti-cheat
 
 # resources
 https://github.com/gmh5225/awesome-game-security
+

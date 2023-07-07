@@ -25,12 +25,12 @@ func main() {
 	for timeEnd := time.Now().Add(time.Second * 5).UnixMilli(); timeEnd > time.Now().UnixMilli(); index++ {
 		process.WriteFloat64(moneyAddr, float64(index))
 	}
-	fmt.Println("writes", index/5, "per second")
+	fmt.Println("writes", index/5, "/ sec")
 
 	index = 0
 	for timeEnd := time.Now().Add(time.Second * 5).UnixMilli(); timeEnd > time.Now().UnixMilli(); index++ {
 		process.ReadFloat64(moneyAddr)
 	}
 
-	fmt.Println("reads", index/5, "per second")
+	fmt.Println("reads", index/5, "/ sec")
 }
