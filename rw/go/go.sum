@@ -1,0 +1,4 @@
+github.com/Erickson400/GoMem/windows v0.0.0-20220505235431-0deff348df56 h1:Maiz3MM0T0L9v89hHKs/FOji/F5zjub/DYk2PHL9tZc=
+github.com/Erickson400/GoMem/windows v0.0.0-20220505235431-0deff348df56/go.mod h1:NGm9Pxyh12FfpZy6fpRidA3j1u4AaCwxa1/BzhkFe9M=
+golang.org/x/sys v0.10.0 h1:SqMFp9UcQJZa+pmYuAKjd9xq1f0j5rLcDIk0mj4qAsA=
+golang.org/x/sys v0.10.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
