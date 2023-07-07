@@ -22,3 +22,7 @@ Kernel Driver [Leaked Cert Method](https://www.unknowncheats.me/forum/anti-cheat
   1. sign own driver with leaked cert https://www.unknowncheats.me/forum/anti-cheat-bypass/491501-nvidia-leaked-code-driver-cert.html
   2. map into R/W Memory code into some official driver with own driver
   3. unload own driver and hide tracks to avoid leaked cert detection by AC
+
+# resources
+https://github.com/dsasmblr/game-hacking
+https://github.com/gmh5225/awesome-game-security
