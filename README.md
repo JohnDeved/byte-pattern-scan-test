@@ -42,6 +42,7 @@ https://github.com/gmh5225/awesome-game-security
 
 - nim [CreateToolhelp32Snapshot](https://github.com/byt3bl33d3r/OffensiveNim/blob/master/src/taskbar_ewmi_bin.nim#L21C6-L21C22) (processes)
 - nim win https://github.com/khchen/winim
+- nim mem https://github.com/qb-0/Nimem
 - zig [CreateToolhelp32Snapshot](https://github.com/ziglang/zig/blob/b9fc0d2908371dc4f7c95c03972d42e290d6e1e0/lib/std/debug.zig#L1198) (modules)
 - zig win https://github.com/marlersoft/zigwin32
 - zig mem https://github.com/Sirius902/grindel
