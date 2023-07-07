@@ -40,6 +40,6 @@ Kernel Driver [Leaked Cert Method](https://www.unknowncheats.me/forum/anti-cheat
 # resources
 https://github.com/gmh5225/awesome-game-security
 
-nim CreateToolhelp32Snapshot https://github.com/byt3bl33d3r/OffensiveNim/blob/master/src/taskbar_ewmi_bin.nim#L21C6-L21C22
-
+- nim [CreateToolhelp32Snapshot](https://github.com/byt3bl33d3r/OffensiveNim/blob/master/src/taskbar_ewmi_bin.nim#L21C6-L21C22) (processes)
+- zig [CreateToolhelp32Snapshot](https://github.com/ziglang/zig/blob/b9fc0d2908371dc4f7c95c03972d42e290d6e1e0/lib/std/debug.zig#L1198) (modules)
 
