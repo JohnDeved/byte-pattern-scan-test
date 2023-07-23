@@ -5,11 +5,18 @@ writes 327171 / sec
 reads 1148995 / sec
 ```
 
-**Typescript (Frida):**
+**Typescript (Frida QuickJS):**
 ```
 writes 896751 / sec
 reads 1041273 / sec
 ```
+
+**Typescript (Frida v8):**
+```
+write 4445842.4 / sec
+read 4287941.8 / sec
+```
+
 ###### (averaged over 5 seconds)
 
 # byte-pattern-scan-test
