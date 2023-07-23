@@ -1,20 +1,20 @@
 # R/W results 
 **Go (gomem):**
 ```
-writes 327171 / sec
-reads 1148995 / sec
+writes 327.171 / sec
+reads 1.148.995 / sec
 ```
 
 **Typescript (Frida QuickJS):**
 ```
-writes 896751 / sec
-reads 1041273 / sec
+writes 896.751 / sec
+reads 1.041.273 / sec
 ```
 
 **Typescript (Frida v8):**
 ```
-write 4445842.4 / sec
-read 4287941.8 / sec
+write 4.445.842 / sec
+read 4.287.941 / sec
 ```
 
 ###### (averaged over 5 seconds)
