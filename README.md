@@ -49,9 +49,9 @@ Kernel Driver [Leaked Cert Method](https://www.unknowncheats.me/forum/anti-cheat
 [FFI overhead](https://github.com/dyu/ffi-overhead) is a real problem in many languages, Go being one of the main offenders apparently.
 This sadly makes Go useless/unviable for many applications that rely on many FFI calls. (like win API calls)
 Nim seems to score way better in this. I need to test nim mem and see how it compares to Go and Frida.
-According to recorded benchmarks, I can expect Nim to be 28.5 times faster than go with FFI. I wonder how that translates to RM calls per second.
+According to recorded benchmarks, I can expect Nim to be 28.5 times faster than go with FFI. I wonder how that translates to RPM calls per second.
 If it's a 1 to 1 translation, that would mean Nim has the potential to read 28.5 million addresses in a second. that would be about 6.5 times faster than Frida v8.
-The question at some point kind of becomes "Does it matter?" and in the case of byte pattern scanning it definitely does, but in most cases, it will never make a noticeable difference.
+The question at some point kind of becomes "Does it matter?" and in the case of byte pattern scanning using only FFI calls it definitely does, but in most cases, it will never make a noticeable difference. Frida for example implements its own pattern scanning function, which most likely is executed within the dll running in the target process. Meaning with just one FFI call you get an unbeatable performance, compared to trying to archive the same thing using RPM calls.
 
 # resources
 https://github.com/gmh5225/awesome-game-security
