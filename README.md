@@ -44,6 +44,11 @@ Kernel Driver [Leaked Cert Method](https://www.unknowncheats.me/forum/anti-cheat
   2. map into R/W Memory code into some official driver with own driver
   3. unload own driver and hide tracks to avoid leaked cert detection by AC
 
+FFI overhead is a real problem in many languages, Go being one of the main offenders apparently.
+This sadly makes Go useless/unviable for many applications that rely on many FFI calls. (like win API calls)
+Nim seems to score way better in this. i need to test nim mem and see how it compares to go and frida
+https://github.com/dyu/ffi-overhead
+
 # resources
 https://github.com/gmh5225/awesome-game-security
 
