@@ -17,6 +17,12 @@ write 4.445.842 / sec
 read 4.287.941 / sec
 ```
 
+**C (Write/ReadProcessMemory)**
+```
+writes 404.634 / sec
+reads 1.558.873 / sec
+```
+
 ###### (averaged over 5 seconds)
 
 # byte-pattern-scan-test
